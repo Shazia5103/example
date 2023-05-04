@@ -5,6 +5,9 @@ public class NweClass {
 	{
           System.out.println("class created");
           System.out.println("new line added");
+          System.out.println("new2 line added");
+
+          
 	}
 
 }
